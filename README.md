@@ -1,3 +1,4 @@
+
 Projek ini merupakan tugas akhir semester saya pada mata kuliah Pemrograman WEB yang dibuat menggunakan bahasa PHP native, database mysql, dan bootsrap.
 
 - salin repository ini atau download repository ini
@@ -23,3 +24,11 @@ role     : mahasiswa
 username : 22302001
 password : 22302001
 role     : mahasiswa tingkat akhir
+
+
+credits:
+- https://github.com/YazidAufar/UploadFilePDF.git
+- https://github.com/YazidAufar/pemweb_upload_file.git
+- https://github.com/YazidAufar/pemweb_latihanlogin.git
+- https://github.com/YazidAufar/pemweb_register-login-dan-logout-dengan-session.git
+
