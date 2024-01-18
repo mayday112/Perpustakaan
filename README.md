@@ -1,3 +1,5 @@
+Projek ini merupakan tugas akhir semester saya pada mata kuliah Pemrograman WEB dan analisis desain perangkat lunak. yang dibuat menggunakan bahasa PHP native, database mysql, dan bootsrap.
+
 - salin repository ini atau download repository ini
 - ekstrak lalu pindahkan ke C:\xampp\htdocs
 - buka xampp panel control
